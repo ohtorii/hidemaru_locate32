@@ -17,11 +17,11 @@
 - locate32 ver3.0 build 7.7010c で動作を確認
 
 ###使い方
-マクロを起動すると検索したいファイルの一部を入力して下さい。
+マクロを起動したら検索するファイルの一部を入力して下さい。
 （例）*.cpp
 新しいウインドウに検索結果が表示されます。
 
 
 ###link
-![http://locate32.net/index.php](http://locate32.net/index.php "locate32")
+[http://locate32.net](http://locate32.net "locate32")
 
